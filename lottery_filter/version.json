@@ -1,6 +1,6 @@
 {
-  "version": "1.5.6",
-  "apk_url": "https://github.com/luochenan/lottery-data/releases/download/v1.5.6/lottery_filter_v1.5.6.apk",
-  "notes": "修复低版本安卓安装报「未包含任何证书」",
+  "version": "1.6.1",
+  "apk_url": "https://github.com/luochenan/lottery-data/releases/download/v1.6.1/lottery_filter_v1.6.1.apk",
+  "notes": "修复刷新按钮显示异常",
   "mandatory": false
 }
