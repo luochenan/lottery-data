@@ -1,6 +1,6 @@
 {
-  "version": "1.5.4",
-  "apk_url": "https://github.com/luochenan/lottery-data/releases/download/v1.5.4/lottery_filter_v1.5.4.apk",
-  "notes": "新增 APK 镜像下载，支持国内更新",
+  "version": "1.5.5",
+  "apk_url": "https://github.com/luochenan/lottery-data/releases/download/v1.5.5/lottery_filter_v1.5.5.apk",
+  "notes": "下载提速 25 倍",
   "mandatory": false
 }
