@@ -1,1 +1,6 @@
-
+{
+  "version": "1.5.1",
+  "apk_url": "",
+  "notes": "首次配置",
+  "mandatory": false
+}
