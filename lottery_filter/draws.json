@@ -1,8 +1,3770 @@
 [
   {
     "game_type": "3d",
-    "issue": "TEST",
-    "draw_date": "2026-11-25",
+    "issue": "2026001",
+    "draw_date": "2026-01-01",
+    "number": "298"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026001",
+    "draw_date": "2026-01-01",
+    "number": "298"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026002",
+    "draw_date": "2026-01-02",
+    "number": "520"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026002",
+    "draw_date": "2026-01-02",
+    "number": "520"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026003",
+    "draw_date": "2026-01-03",
+    "number": "601"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026003",
+    "draw_date": "2026-01-03",
+    "number": "601"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026004",
+    "draw_date": "2026-01-04",
+    "number": "019"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026004",
+    "draw_date": "2026-01-04",
+    "number": "019"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026005",
+    "draw_date": "2026-01-05",
+    "number": "476"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026005",
+    "draw_date": "2026-01-05",
+    "number": "476"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026006",
+    "draw_date": "2026-01-06",
+    "number": "244"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026006",
+    "draw_date": "2026-01-06",
+    "number": "244"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026007",
+    "draw_date": "2026-01-07",
+    "number": "353"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026007",
+    "draw_date": "2026-01-07",
+    "number": "353"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026008",
+    "draw_date": "2026-01-08",
+    "number": "252"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026008",
+    "draw_date": "2026-01-08",
+    "number": "252"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026009",
+    "draw_date": "2026-01-09",
+    "number": "265"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026009",
+    "draw_date": "2026-01-09",
+    "number": "265"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026010",
+    "draw_date": "2026-01-10",
+    "number": "667"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026010",
+    "draw_date": "2026-01-10",
+    "number": "667"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026011",
+    "draw_date": "2026-01-11",
+    "number": "647"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026011",
+    "draw_date": "2026-01-11",
+    "number": "647"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026012",
+    "draw_date": "2026-01-12",
+    "number": "241"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026012",
+    "draw_date": "2026-01-12",
+    "number": "241"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026013",
+    "draw_date": "2026-01-13",
+    "number": "513"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026013",
+    "draw_date": "2026-01-13",
+    "number": "513"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026014",
+    "draw_date": "2026-01-14",
+    "number": "050"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026014",
+    "draw_date": "2026-01-14",
+    "number": "050"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026015",
+    "draw_date": "2026-01-15",
+    "number": "532"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026015",
+    "draw_date": "2026-01-15",
+    "number": "532"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026016",
+    "draw_date": "2026-01-16",
+    "number": "582"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026016",
+    "draw_date": "2026-01-16",
+    "number": "582"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026017",
+    "draw_date": "2026-01-17",
+    "number": "945"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026017",
+    "draw_date": "2026-01-17",
+    "number": "945"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026018",
+    "draw_date": "2026-01-18",
+    "number": "494"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026018",
+    "draw_date": "2026-01-18",
+    "number": "494"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026019",
+    "draw_date": "2026-01-19",
+    "number": "223"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026019",
+    "draw_date": "2026-01-19",
+    "number": "223"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026020",
+    "draw_date": "2026-01-20",
+    "number": "676"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026020",
+    "draw_date": "2026-01-20",
+    "number": "676"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026021",
+    "draw_date": "2026-01-21",
+    "number": "559"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026021",
+    "draw_date": "2026-01-21",
+    "number": "559"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026022",
+    "draw_date": "2026-01-22",
+    "number": "678"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026022",
+    "draw_date": "2026-01-22",
+    "number": "678"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026023",
+    "draw_date": "2026-01-23",
+    "number": "784"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026023",
+    "draw_date": "2026-01-23",
+    "number": "784"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026024",
+    "draw_date": "2026-01-24",
+    "number": "911"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026024",
+    "draw_date": "2026-01-24",
+    "number": "911"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026025",
+    "draw_date": "2026-01-25",
+    "number": "029"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026025",
+    "draw_date": "2026-01-25",
+    "number": "029"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026026",
+    "draw_date": "2026-01-26",
+    "number": "099"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026026",
+    "draw_date": "2026-01-26",
+    "number": "099"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026027",
+    "draw_date": "2026-01-27",
+    "number": "126"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026027",
+    "draw_date": "2026-01-27",
+    "number": "126"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026028",
+    "draw_date": "2026-01-28",
+    "number": "270"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026028",
+    "draw_date": "2026-01-28",
+    "number": "270"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026029",
+    "draw_date": "2026-01-29",
+    "number": "003"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026029",
+    "draw_date": "2026-01-29",
+    "number": "003"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026030",
+    "draw_date": "2026-01-30",
+    "number": "134"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026030",
+    "draw_date": "2026-01-30",
+    "number": "134"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026031",
+    "draw_date": "2026-01-31",
+    "number": "142"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026031",
+    "draw_date": "2026-01-31",
+    "number": "142"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026032",
+    "draw_date": "2026-02-01",
+    "number": "452"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026032",
+    "draw_date": "2026-02-01",
+    "number": "730"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026033",
+    "draw_date": "2026-02-02",
+    "number": "119"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026033",
+    "draw_date": "2026-02-02",
+    "number": "141"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026034",
+    "draw_date": "2026-02-03",
+    "number": "052"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026034",
+    "draw_date": "2026-02-03",
+    "number": "516"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026035",
+    "draw_date": "2026-02-04",
+    "number": "213"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026035",
+    "draw_date": "2026-02-04",
+    "number": "717"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026036",
+    "draw_date": "2026-02-05",
+    "number": "762"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026036",
+    "draw_date": "2026-02-05",
+    "number": "788"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026037",
+    "draw_date": "2026-02-06",
+    "number": "420"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026037",
+    "draw_date": "2026-02-06",
+    "number": "724"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026038",
+    "draw_date": "2026-02-07",
+    "number": "467"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026038",
+    "draw_date": "2026-02-07",
+    "number": "789"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026039",
+    "draw_date": "2026-02-08",
+    "number": "450"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026039",
+    "draw_date": "2026-02-08",
+    "number": "852"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026040",
+    "draw_date": "2026-02-09",
+    "number": "425"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026040",
+    "draw_date": "2026-02-09",
+    "number": "009"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026041",
+    "draw_date": "2026-02-10",
+    "number": "901"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026041",
+    "draw_date": "2026-02-10",
+    "number": "639"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026042",
+    "draw_date": "2026-02-11",
+    "number": "854"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026042",
+    "draw_date": "2026-02-11",
+    "number": "795"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026043",
+    "draw_date": "2026-02-12",
+    "number": "765"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026043",
+    "draw_date": "2026-02-12",
+    "number": "179"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026044",
+    "draw_date": "2026-02-13",
+    "number": "589"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026044",
+    "draw_date": "2026-02-13",
+    "number": "051"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026045",
+    "draw_date": "2026-02-24",
+    "number": "181"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026045",
+    "draw_date": "2026-02-24",
+    "number": "144"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026046",
+    "draw_date": "2026-02-25",
+    "number": "291"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026046",
+    "draw_date": "2026-02-25",
+    "number": "703"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026047",
+    "draw_date": "2026-02-26",
+    "number": "936"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026047",
+    "draw_date": "2026-02-26",
+    "number": "330"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026048",
+    "draw_date": "2026-02-27",
+    "number": "612"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026048",
+    "draw_date": "2026-02-27",
+    "number": "097"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026049",
+    "draw_date": "2026-02-28",
+    "number": "110"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026049",
+    "draw_date": "2026-02-28",
+    "number": "592"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026050",
+    "draw_date": "2026-03-01",
+    "number": "689"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026050",
+    "draw_date": "2026-03-01",
+    "number": "435"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026051",
+    "draw_date": "2026-03-02",
+    "number": "302"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026051",
+    "draw_date": "2026-03-02",
+    "number": "045"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026052",
+    "draw_date": "2026-03-03",
+    "number": "277"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026052",
+    "draw_date": "2026-03-03",
+    "number": "649"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026053",
+    "draw_date": "2026-03-04",
+    "number": "755"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026053",
+    "draw_date": "2026-03-04",
+    "number": "744"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026054",
+    "draw_date": "2026-03-05",
+    "number": "217"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026054",
+    "draw_date": "2026-03-05",
+    "number": "655"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026055",
+    "draw_date": "2026-03-06",
+    "number": "107"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026055",
+    "draw_date": "2026-03-06",
+    "number": "537"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026056",
+    "draw_date": "2026-03-07",
+    "number": "477"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026056",
+    "draw_date": "2026-03-07",
+    "number": "119"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026057",
+    "draw_date": "2026-03-08",
+    "number": "264"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026057",
+    "draw_date": "2026-03-08",
+    "number": "479"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026058",
+    "draw_date": "2026-03-09",
+    "number": "543"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026058",
+    "draw_date": "2026-03-09",
+    "number": "590"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026059",
+    "draw_date": "2026-03-10",
+    "number": "794"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026059",
+    "draw_date": "2026-03-10",
+    "number": "209"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026060",
+    "draw_date": "2026-03-11",
+    "number": "943"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026060",
+    "draw_date": "2026-03-11",
+    "number": "118"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026061",
+    "draw_date": "2026-03-12",
+    "number": "429"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026061",
+    "draw_date": "2026-03-12",
+    "number": "347"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026062",
+    "draw_date": "2026-03-13",
+    "number": "294"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026062",
+    "draw_date": "2026-03-13",
+    "number": "315"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026063",
+    "draw_date": "2026-03-14",
+    "number": "517"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026063",
+    "draw_date": "2026-03-14",
+    "number": "723"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026064",
+    "draw_date": "2026-03-15",
+    "number": "604"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026064",
+    "draw_date": "2026-03-15",
+    "number": "528"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026065",
+    "draw_date": "2026-03-16",
+    "number": "057"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026065",
+    "draw_date": "2026-03-16",
+    "number": "851"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026066",
+    "draw_date": "2026-03-17",
+    "number": "934"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026066",
+    "draw_date": "2026-03-17",
+    "number": "807"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026067",
+    "draw_date": "2026-03-18",
+    "number": "695"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026067",
+    "draw_date": "2026-03-18",
+    "number": "428"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026068",
+    "draw_date": "2026-03-19",
+    "number": "706"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026068",
+    "draw_date": "2026-03-19",
+    "number": "840"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026069",
+    "draw_date": "2026-03-20",
+    "number": "908"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026069",
+    "draw_date": "2026-03-20",
+    "number": "114"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026070",
+    "draw_date": "2026-03-21",
+    "number": "484"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026070",
+    "draw_date": "2026-03-21",
+    "number": "131"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026071",
+    "draw_date": "2026-03-22",
+    "number": "261"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026071",
+    "draw_date": "2026-03-22",
+    "number": "551"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026072",
+    "draw_date": "2026-03-23",
+    "number": "245"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026072",
+    "draw_date": "2026-03-23",
+    "number": "115"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026073",
+    "draw_date": "2026-03-24",
+    "number": "504"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026073",
+    "draw_date": "2026-03-24",
+    "number": "325"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026074",
+    "draw_date": "2026-03-25",
+    "number": "487"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026074",
+    "draw_date": "2026-03-25",
+    "number": "406"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026075",
+    "draw_date": "2026-03-26",
+    "number": "816"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026075",
+    "draw_date": "2026-03-26",
+    "number": "437"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026076",
+    "draw_date": "2026-03-27",
+    "number": "863"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026076",
+    "draw_date": "2026-03-27",
+    "number": "419"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026077",
+    "draw_date": "2026-03-28",
+    "number": "112"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026077",
+    "draw_date": "2026-03-28",
+    "number": "780"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026078",
+    "draw_date": "2026-03-29",
+    "number": "049"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026078",
+    "draw_date": "2026-03-29",
+    "number": "634"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026079",
+    "draw_date": "2026-03-30",
+    "number": "233"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026079",
+    "draw_date": "2026-03-30",
+    "number": "195"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026080",
+    "draw_date": "2026-03-31",
+    "number": "802"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026080",
+    "draw_date": "2026-03-31",
+    "number": "770"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026081",
+    "draw_date": "2026-04-01",
+    "number": "827"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026081",
+    "draw_date": "2026-04-01",
+    "number": "690"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026082",
+    "draw_date": "2026-04-02",
+    "number": "942"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026082",
+    "draw_date": "2026-04-02",
+    "number": "048"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026083",
+    "draw_date": "2026-04-03",
+    "number": "506"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026083",
+    "draw_date": "2026-04-03",
+    "number": "903"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026084",
+    "draw_date": "2026-04-04",
+    "number": "456"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026084",
+    "draw_date": "2026-04-04",
+    "number": "004"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026085",
+    "draw_date": "2026-04-05",
+    "number": "118"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026085",
+    "draw_date": "2026-04-05",
+    "number": "020"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026086",
+    "draw_date": "2026-04-06",
+    "number": "382"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026086",
+    "draw_date": "2026-04-06",
+    "number": "334"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026087",
+    "draw_date": "2026-04-07",
+    "number": "911"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026087",
+    "draw_date": "2026-04-07",
+    "number": "070"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026088",
+    "draw_date": "2026-04-08",
+    "number": "608"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026088",
+    "draw_date": "2026-04-08",
+    "number": "474"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026089",
+    "draw_date": "2026-04-09",
+    "number": "922"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026089",
+    "draw_date": "2026-04-09",
+    "number": "216"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026090",
+    "draw_date": "2026-04-10",
+    "number": "816"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026090",
+    "draw_date": "2026-04-10",
+    "number": "954"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026091",
+    "draw_date": "2026-04-11",
+    "number": "537"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026091",
+    "draw_date": "2026-04-11",
+    "number": "202"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026092",
+    "draw_date": "2026-04-12",
+    "number": "870"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026092",
+    "draw_date": "2026-04-12",
+    "number": "761"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026093",
+    "draw_date": "2026-04-13",
+    "number": "518"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026093",
+    "draw_date": "2026-04-13",
+    "number": "998"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026094",
+    "draw_date": "2026-04-14",
+    "number": "418"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026094",
+    "draw_date": "2026-04-14",
+    "number": "938"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026095",
+    "draw_date": "2026-04-15",
+    "number": "022"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026095",
+    "draw_date": "2026-04-15",
+    "number": "568"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026096",
+    "draw_date": "2026-04-16",
+    "number": "689"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026096",
+    "draw_date": "2026-04-16",
+    "number": "643"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026097",
+    "draw_date": "2026-04-17",
+    "number": "818"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026097",
+    "draw_date": "2026-04-17",
+    "number": "226"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026098",
+    "draw_date": "2026-04-18",
+    "number": "513"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026098",
+    "draw_date": "2026-04-18",
+    "number": "974"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026099",
+    "draw_date": "2026-04-19",
+    "number": "877"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026099",
+    "draw_date": "2026-04-19",
+    "number": "424"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026100",
+    "draw_date": "2026-04-20",
+    "number": "414"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026100",
+    "draw_date": "2026-04-20",
+    "number": "207"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026101",
+    "draw_date": "2026-04-21",
+    "number": "584"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026101",
+    "draw_date": "2026-04-21",
+    "number": "090"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026102",
+    "draw_date": "2026-04-22",
+    "number": "420"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026102",
+    "draw_date": "2026-04-22",
+    "number": "490"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026103",
+    "draw_date": "2026-04-23",
+    "number": "661"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026103",
+    "draw_date": "2026-04-23",
+    "number": "901"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026104",
+    "draw_date": "2026-04-24",
+    "number": "482"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026104",
+    "draw_date": "2026-04-24",
+    "number": "786"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026105",
+    "draw_date": "2026-04-25",
+    "number": "631"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026105",
+    "draw_date": "2026-04-25",
+    "number": "217"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026106",
+    "draw_date": "2026-04-26",
+    "number": "928"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026106",
+    "draw_date": "2026-04-26",
+    "number": "343"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026107",
+    "draw_date": "2026-04-27",
+    "number": "278"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026107",
+    "draw_date": "2026-04-27",
+    "number": "154"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026108",
+    "draw_date": "2026-04-28",
+    "number": "671"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026108",
+    "draw_date": "2026-04-28",
+    "number": "656"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026109",
+    "draw_date": "2026-04-29",
+    "number": "195"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026109",
+    "draw_date": "2026-04-29",
+    "number": "088"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026110",
+    "draw_date": "2026-04-30",
+    "number": "379"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026110",
+    "draw_date": "2026-04-30",
+    "number": "343"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026111",
+    "draw_date": "2026-05-01",
+    "number": "863"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026111",
+    "draw_date": "2026-05-01",
+    "number": "877"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026112",
+    "draw_date": "2026-05-02",
+    "number": "065"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026112",
+    "draw_date": "2026-05-02",
+    "number": "652"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026113",
+    "draw_date": "2026-05-03",
+    "number": "040"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026113",
+    "draw_date": "2026-05-03",
+    "number": "925"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026114",
+    "draw_date": "2026-05-04",
+    "number": "864"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026114",
+    "draw_date": "2026-05-04",
+    "number": "017"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026115",
+    "draw_date": "2026-05-05",
+    "number": "581"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026115",
+    "draw_date": "2026-05-05",
+    "number": "333"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026116",
+    "draw_date": "2026-05-06",
+    "number": "020"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026116",
+    "draw_date": "2026-05-06",
+    "number": "951"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026117",
+    "draw_date": "2026-05-07",
+    "number": "411"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026117",
+    "draw_date": "2026-05-07",
+    "number": "091"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026118",
+    "draw_date": "2026-05-08",
+    "number": "132"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026118",
+    "draw_date": "2026-05-08",
+    "number": "272"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026119",
+    "draw_date": "2026-05-09",
+    "number": "112"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026119",
+    "draw_date": "2026-05-09",
+    "number": "222"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026120",
+    "draw_date": "2026-05-10",
+    "number": "734"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026120",
+    "draw_date": "2026-05-10",
+    "number": "296"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026121",
+    "draw_date": "2026-05-11",
+    "number": "393"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026121",
+    "draw_date": "2026-05-11",
+    "number": "040"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026122",
+    "draw_date": "2026-05-12",
+    "number": "346"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026122",
+    "draw_date": "2026-05-12",
+    "number": "747"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026123",
+    "draw_date": "2026-05-13",
+    "number": "200"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026123",
+    "draw_date": "2026-05-13",
+    "number": "955"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026124",
+    "draw_date": "2026-05-14",
+    "number": "280"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026124",
+    "draw_date": "2026-05-14",
+    "number": "785"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026125",
+    "draw_date": "2026-05-15",
+    "number": "954"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026125",
+    "draw_date": "2026-05-15",
+    "number": "867"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026126",
+    "draw_date": "2026-05-16",
+    "number": "846"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026126",
+    "draw_date": "2026-05-16",
+    "number": "835"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026127",
+    "draw_date": "2026-05-17",
+    "number": "700"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026127",
+    "draw_date": "2026-05-17",
+    "number": "936"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026128",
+    "draw_date": "2026-05-18",
+    "number": "776"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026128",
+    "draw_date": "2026-05-18",
+    "number": "512"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026129",
+    "draw_date": "2026-05-19",
+    "number": "023"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026129",
+    "draw_date": "2026-05-19",
+    "number": "683"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026130",
+    "draw_date": "2026-05-20",
+    "number": "267"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026130",
+    "draw_date": "2026-05-20",
+    "number": "070"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026131",
+    "draw_date": "2026-05-21",
+    "number": "598"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026131",
+    "draw_date": "2026-05-21",
+    "number": "968"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026132",
+    "draw_date": "2026-05-22",
+    "number": "756"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026132",
+    "draw_date": "2026-05-22",
+    "number": "443"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026133",
+    "draw_date": "2026-05-23",
+    "number": "080"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026133",
+    "draw_date": "2026-05-23",
+    "number": "543"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026134",
+    "draw_date": "2026-05-24",
+    "number": "654"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026134",
+    "draw_date": "2026-05-24",
+    "number": "515"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026135",
+    "draw_date": "2026-05-25",
+    "number": "487"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026135",
+    "draw_date": "2026-05-25",
+    "number": "939"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026136",
+    "draw_date": "2026-05-26",
+    "number": "889"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026136",
+    "draw_date": "2026-05-26",
+    "number": "466"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026137",
+    "draw_date": "2026-05-27",
+    "number": "165"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026137",
+    "draw_date": "2026-05-27",
+    "number": "544"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026138",
+    "draw_date": "2026-05-28",
+    "number": "790"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026138",
+    "draw_date": "2026-05-28",
+    "number": "263"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026139",
+    "draw_date": "2026-05-29",
+    "number": "286"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026139",
+    "draw_date": "2026-05-29",
+    "number": "198"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026140",
+    "draw_date": "2026-05-30",
+    "number": "285"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026140",
+    "draw_date": "2026-05-30",
+    "number": "421"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026141",
+    "draw_date": "2026-05-31",
+    "number": "397"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026141",
+    "draw_date": "2026-05-31",
+    "number": "215"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026142",
+    "draw_date": "2026-06-01",
+    "number": "894"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026142",
+    "draw_date": "2026-06-01",
+    "number": "916"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026143",
+    "draw_date": "2026-06-02",
+    "number": "376"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026143",
+    "draw_date": "2026-06-02",
+    "number": "744"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026144",
+    "draw_date": "2026-06-03",
+    "number": "726"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026144",
+    "draw_date": "2026-06-03",
+    "number": "462"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026145",
+    "draw_date": "2026-06-04",
+    "number": "279"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026145",
+    "draw_date": "2026-06-04",
+    "number": "993"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026146",
+    "draw_date": "2026-06-05",
+    "number": "464"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026146",
+    "draw_date": "2026-06-05",
+    "number": "154"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026147",
+    "draw_date": "2026-06-06",
+    "number": "712"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026147",
+    "draw_date": "2026-06-06",
+    "number": "590"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026148",
+    "draw_date": "2026-06-07",
+    "number": "408"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026148",
+    "draw_date": "2026-06-07",
+    "number": "065"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026149",
+    "draw_date": "2026-06-08",
+    "number": "696"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026149",
+    "draw_date": "2026-06-08",
+    "number": "325"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026150",
+    "draw_date": "2026-06-09",
+    "number": "720"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026150",
+    "draw_date": "2026-06-09",
+    "number": "340"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026151",
+    "draw_date": "2026-06-10",
+    "number": "631"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026151",
+    "draw_date": "2026-06-10",
+    "number": "983"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026152",
+    "draw_date": "2026-06-11",
+    "number": "220"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026152",
+    "draw_date": "2026-06-11",
+    "number": "151"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026153",
+    "draw_date": "2026-06-12",
+    "number": "887"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026153",
+    "draw_date": "2026-06-12",
+    "number": "389"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026154",
+    "draw_date": "2026-06-13",
+    "number": "377"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026154",
+    "draw_date": "2026-06-13",
+    "number": "473"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026155",
+    "draw_date": "2026-06-14",
+    "number": "409"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026155",
+    "draw_date": "2026-06-14",
+    "number": "485"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026156",
+    "draw_date": "2026-06-15",
+    "number": "162"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026156",
+    "draw_date": "2026-06-15",
+    "number": "641"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026157",
+    "draw_date": "2026-06-16",
+    "number": "327"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026157",
+    "draw_date": "2026-06-16",
+    "number": "830"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026158",
+    "draw_date": "2026-06-17",
+    "number": "178"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026158",
+    "draw_date": "2026-06-17",
+    "number": "911"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026159",
+    "draw_date": "2026-06-18",
+    "number": "995"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026159",
+    "draw_date": "2026-06-18",
+    "number": "557"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026160",
+    "draw_date": "2026-06-19",
+    "number": "332"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026160",
+    "draw_date": "2026-06-19",
+    "number": "551"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026161",
+    "draw_date": "2026-06-20",
+    "number": "529"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026161",
+    "draw_date": "2026-06-20",
+    "number": "562"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026162",
+    "draw_date": "2026-06-21",
+    "number": "585"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026162",
+    "draw_date": "2026-06-21",
+    "number": "369"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026163",
+    "draw_date": "2026-06-22",
+    "number": "537"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026163",
+    "draw_date": "2026-06-22",
+    "number": "346"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026164",
+    "draw_date": "2026-06-23",
+    "number": "690"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026164",
+    "draw_date": "2026-06-23",
+    "number": "715"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026165",
+    "draw_date": "2026-06-24",
+    "number": "424"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026165",
+    "draw_date": "2026-06-24",
+    "number": "294"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026166",
+    "draw_date": "2026-06-25",
+    "number": "900"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026166",
+    "draw_date": "2026-06-25",
+    "number": "229"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026167",
+    "draw_date": "2026-06-26",
+    "number": "631"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026167",
+    "draw_date": "2026-06-26",
+    "number": "012"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026168",
+    "draw_date": "2026-06-27",
+    "number": "130"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026168",
+    "draw_date": "2026-06-27",
+    "number": "192"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026169",
+    "draw_date": "2026-06-28",
+    "number": "832"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026169",
+    "draw_date": "2026-06-28",
+    "number": "884"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026170",
+    "draw_date": "2026-06-29",
+    "number": "805"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026170",
+    "draw_date": "2026-06-29",
+    "number": "417"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026171",
+    "draw_date": "2026-06-30",
+    "number": "134"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026171",
+    "draw_date": "2026-06-30",
+    "number": "048"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026172",
+    "draw_date": "2026-07-01",
+    "number": "445"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026172",
+    "draw_date": "2026-07-01",
+    "number": "771"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026173",
+    "draw_date": "2026-07-02",
+    "number": "677"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026173",
+    "draw_date": "2026-07-02",
+    "number": "259"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026174",
+    "draw_date": "2026-07-03",
+    "number": "618"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026174",
+    "draw_date": "2026-07-03",
+    "number": "157"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026175",
+    "draw_date": "2026-07-04",
+    "number": "421"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026175",
+    "draw_date": "2026-07-04",
+    "number": "838"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026176",
+    "draw_date": "2026-07-05",
+    "number": "269"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026176",
+    "draw_date": "2026-07-05",
+    "number": "584"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026177",
+    "draw_date": "2026-07-06",
+    "number": "808"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026177",
+    "draw_date": "2026-07-06",
+    "number": "826"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026178",
+    "draw_date": "2026-07-07",
+    "number": "266"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026178",
+    "draw_date": "2026-07-07",
+    "number": "837"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026179",
+    "draw_date": "2026-07-08",
+    "number": "993"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026179",
+    "draw_date": "2026-07-08",
+    "number": "396"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026180",
+    "draw_date": "2026-07-09",
+    "number": "520"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026180",
+    "draw_date": "2026-07-09",
+    "number": "005"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026181",
+    "draw_date": "2026-07-10",
+    "number": "818"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026181",
+    "draw_date": "2026-07-10",
+    "number": "124"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026182",
+    "draw_date": "2026-07-11",
+    "number": "662"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026182",
+    "draw_date": "2026-07-11",
+    "number": "313"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026183",
+    "draw_date": "2026-07-12",
+    "number": "923"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026183",
+    "draw_date": "2026-07-12",
+    "number": "352"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026184",
+    "draw_date": "2026-07-13",
+    "number": "902"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026184",
+    "draw_date": "2026-07-13",
+    "number": "142"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026185",
+    "draw_date": "2026-07-14",
+    "number": "397"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026185",
+    "draw_date": "2026-07-14",
+    "number": "785"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026186",
+    "draw_date": "2026-07-15",
+    "number": "045"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026186",
+    "draw_date": "2026-07-15",
+    "number": "665"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026187",
+    "draw_date": "2026-07-16",
+    "number": "023"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026187",
+    "draw_date": "2026-07-16",
+    "number": "086"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026188",
+    "draw_date": "2026-07-17",
+    "number": "969"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026188",
+    "draw_date": "2026-07-17",
+    "number": "607"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026189",
+    "draw_date": "2026-07-18",
+    "number": "558"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026189",
+    "draw_date": "2026-07-18",
+    "number": "950"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026190",
+    "draw_date": "2026-07-19",
+    "number": "026"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026190",
+    "draw_date": "2026-07-19",
+    "number": "554"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026191",
+    "draw_date": "2026-07-20",
+    "number": "906"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026191",
+    "draw_date": "2026-07-20",
+    "number": "069"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026192",
+    "draw_date": "2026-07-21",
+    "number": "425"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026192",
+    "draw_date": "2026-07-21",
+    "number": "306"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026193",
+    "draw_date": "2026-07-22",
+    "number": "254"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026193",
+    "draw_date": "2026-07-22",
+    "number": "180"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026194",
+    "draw_date": "2026-07-23",
+    "number": "283"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026194",
+    "draw_date": "2026-07-23",
+    "number": "701"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026195",
+    "draw_date": "2026-07-24",
+    "number": "275"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026195",
+    "draw_date": "2026-07-24",
+    "number": "595"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026196",
+    "draw_date": "2026-07-25",
+    "number": "419"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026196",
+    "draw_date": "2026-07-25",
+    "number": "726"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026197",
+    "draw_date": "2026-07-26",
+    "number": "232"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026197",
+    "draw_date": "2026-07-26",
+    "number": "473"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026198",
+    "draw_date": "2026-07-27",
+    "number": "685"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026198",
+    "draw_date": "2026-07-27",
+    "number": "719"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026199",
+    "draw_date": "2026-07-28",
+    "number": "591"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026199",
+    "draw_date": "2026-07-28",
+    "number": "305"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026200",
+    "draw_date": "2026-07-29",
+    "number": "912"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026200",
+    "draw_date": "2026-07-29",
+    "number": "077"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026201",
+    "draw_date": "2026-07-30",
+    "number": "321"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026201",
+    "draw_date": "2026-07-30",
+    "number": "862"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026202",
+    "draw_date": "2026-07-31",
+    "number": "988"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026202",
+    "draw_date": "2026-07-31",
+    "number": "961"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026203",
+    "draw_date": "2026-08-01",
+    "number": "435"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026203",
+    "draw_date": "2026-08-01",
+    "number": "135"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026204",
+    "draw_date": "2026-08-02",
+    "number": "978"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026204",
+    "draw_date": "2026-08-02",
+    "number": "674"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026205",
+    "draw_date": "2026-08-03",
+    "number": "814"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026205",
+    "draw_date": "2026-08-03",
+    "number": "806"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026206",
+    "draw_date": "2026-08-04",
+    "number": "942"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026206",
+    "draw_date": "2026-08-04",
+    "number": "709"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026207",
+    "draw_date": "2026-08-05",
+    "number": "415"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026207",
+    "draw_date": "2026-08-05",
+    "number": "866"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026208",
+    "draw_date": "2026-08-06",
+    "number": "632"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026208",
+    "draw_date": "2026-08-06",
+    "number": "471"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026209",
+    "draw_date": "2026-08-07",
+    "number": "289"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026209",
+    "draw_date": "2026-08-07",
+    "number": "982"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026210",
+    "draw_date": "2026-08-08",
+    "number": "755"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026210",
+    "draw_date": "2026-08-08",
+    "number": "094"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026211",
+    "draw_date": "2026-08-09",
+    "number": "708"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026211",
+    "draw_date": "2026-08-09",
+    "number": "515"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026212",
+    "draw_date": "2026-08-10",
+    "number": "561"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026212",
+    "draw_date": "2026-08-10",
+    "number": "839"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026213",
+    "draw_date": "2026-08-11",
+    "number": "872"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026213",
+    "draw_date": "2026-08-11",
+    "number": "740"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026214",
+    "draw_date": "2026-08-12",
+    "number": "545"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026214",
+    "draw_date": "2026-08-12",
+    "number": "014"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026215",
+    "draw_date": "2026-08-13",
+    "number": "172"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026215",
+    "draw_date": "2026-08-13",
+    "number": "927"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026216",
+    "draw_date": "2026-08-14",
+    "number": "935"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026216",
+    "draw_date": "2026-08-14",
+    "number": "953"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026217",
+    "draw_date": "2026-08-15",
+    "number": "882"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026217",
+    "draw_date": "2026-08-15",
+    "number": "019"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026218",
+    "draw_date": "2026-08-16",
+    "number": "382"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026218",
+    "draw_date": "2026-08-16",
+    "number": "079"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026219",
+    "draw_date": "2026-08-17",
+    "number": "225"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026219",
+    "draw_date": "2026-08-17",
+    "number": "662"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026220",
+    "draw_date": "2026-08-18",
+    "number": "373"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026220",
+    "draw_date": "2026-08-18",
+    "number": "482"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026221",
+    "draw_date": "2026-08-19",
+    "number": "296"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026221",
+    "draw_date": "2026-08-19",
+    "number": "969"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026222",
+    "draw_date": "2026-08-20",
+    "number": "380"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026222",
+    "draw_date": "2026-08-20",
+    "number": "877"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026223",
+    "draw_date": "2026-08-21",
+    "number": "948"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026223",
+    "draw_date": "2026-08-21",
+    "number": "223"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026224",
+    "draw_date": "2026-08-22",
+    "number": "862"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026224",
+    "draw_date": "2026-08-22",
+    "number": "912"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026225",
+    "draw_date": "2026-08-23",
+    "number": "555"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026225",
+    "draw_date": "2026-08-23",
+    "number": "116"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026226",
+    "draw_date": "2026-08-24",
+    "number": "851"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026226",
+    "draw_date": "2026-08-24",
+    "number": "201"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026227",
+    "draw_date": "2026-08-25",
+    "number": "522"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026227",
+    "draw_date": "2026-08-25",
+    "number": "431"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026228",
+    "draw_date": "2026-08-26",
+    "number": "399"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026228",
+    "draw_date": "2026-08-26",
+    "number": "560"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026229",
+    "draw_date": "2026-08-27",
+    "number": "828"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026229",
+    "draw_date": "2026-08-27",
+    "number": "280"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026230",
+    "draw_date": "2026-08-28",
+    "number": "066"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026230",
+    "draw_date": "2026-08-28",
+    "number": "946"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026231",
+    "draw_date": "2026-08-29",
+    "number": "733"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026231",
+    "draw_date": "2026-08-29",
+    "number": "187"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026232",
+    "draw_date": "2026-08-30",
+    "number": "658"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026232",
+    "draw_date": "2026-08-30",
+    "number": "802"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026233",
+    "draw_date": "2026-08-31",
+    "number": "970"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026233",
+    "draw_date": "2026-08-31",
+    "number": "163"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026234",
+    "draw_date": "2026-09-01",
+    "number": "695"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026234",
+    "draw_date": "2026-09-01",
+    "number": "301"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026235",
+    "draw_date": "2026-09-02",
+    "number": "219"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026235",
+    "draw_date": "2026-09-02",
+    "number": "779"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026236",
+    "draw_date": "2026-09-03",
+    "number": "047"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026236",
+    "draw_date": "2026-09-03",
+    "number": "173"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026237",
+    "draw_date": "2026-09-04",
+    "number": "854"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026237",
+    "draw_date": "2026-09-04",
+    "number": "950"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026238",
+    "draw_date": "2026-09-05",
+    "number": "899"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026238",
+    "draw_date": "2026-09-05",
+    "number": "361"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026239",
+    "draw_date": "2026-09-06",
+    "number": "002"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026239",
+    "draw_date": "2026-09-06",
+    "number": "470"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026240",
+    "draw_date": "2026-09-07",
+    "number": "981"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026240",
+    "draw_date": "2026-09-07",
+    "number": "579"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026241",
+    "draw_date": "2026-09-08",
+    "number": "002"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026241",
+    "draw_date": "2026-09-08",
+    "number": "050"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026242",
+    "draw_date": "2026-09-09",
+    "number": "555"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026242",
+    "draw_date": "2026-09-09",
+    "number": "244"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026243",
+    "draw_date": "2026-09-10",
+    "number": "219"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026243",
+    "draw_date": "2026-09-10",
+    "number": "915"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026244",
+    "draw_date": "2026-09-11",
+    "number": "654"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026244",
+    "draw_date": "2026-09-11",
+    "number": "620"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026245",
+    "draw_date": "2026-09-12",
+    "number": "549"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026245",
+    "draw_date": "2026-09-12",
+    "number": "125"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026246",
+    "draw_date": "2026-09-13",
+    "number": "982"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026246",
+    "draw_date": "2026-09-13",
+    "number": "286"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026247",
+    "draw_date": "2026-09-14",
+    "number": "609"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026247",
+    "draw_date": "2026-09-14",
+    "number": "051"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026248",
+    "draw_date": "2026-09-15",
+    "number": "876"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026248",
+    "draw_date": "2026-09-15",
+    "number": "126"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026249",
+    "draw_date": "2026-09-16",
+    "number": "689"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026249",
+    "draw_date": "2026-09-16",
+    "number": "872"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026250",
+    "draw_date": "2026-09-17",
+    "number": "954"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026250",
+    "draw_date": "2026-09-17",
+    "number": "985"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026251",
+    "draw_date": "2026-09-18",
+    "number": "777"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026251",
+    "draw_date": "2026-09-18",
+    "number": "237"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026252",
+    "draw_date": "2026-09-19",
+    "number": "092"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026252",
+    "draw_date": "2026-09-19",
+    "number": "190"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026253",
+    "draw_date": "2026-09-20",
+    "number": "034"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026253",
+    "draw_date": "2026-09-20",
+    "number": "893"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026254",
+    "draw_date": "2026-09-21",
+    "number": "850"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026254",
+    "draw_date": "2026-09-21",
+    "number": "069"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026255",
+    "draw_date": "2026-09-22",
+    "number": "699"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026255",
+    "draw_date": "2026-09-22",
+    "number": "764"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026256",
+    "draw_date": "2026-09-23",
+    "number": "051"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026256",
+    "draw_date": "2026-09-23",
+    "number": "690"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026257",
+    "draw_date": "2026-09-24",
+    "number": "486"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026257",
+    "draw_date": "2026-09-24",
+    "number": "493"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026258",
+    "draw_date": "2026-09-25",
+    "number": "635"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026258",
+    "draw_date": "2026-09-25",
+    "number": "137"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026259",
+    "draw_date": "2026-09-26",
+    "number": "731"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026259",
+    "draw_date": "2026-09-26",
+    "number": "379"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026260",
+    "draw_date": "2026-09-27",
+    "number": "619"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026260",
+    "draw_date": "2026-09-27",
+    "number": "449"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026261",
+    "draw_date": "2026-09-28",
+    "number": "511"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026261",
+    "draw_date": "2026-09-28",
+    "number": "538"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026262",
+    "draw_date": "2026-09-29",
+    "number": "347"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026262",
+    "draw_date": "2026-09-29",
+    "number": "273"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026263",
+    "draw_date": "2026-09-30",
+    "number": "987"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026263",
+    "draw_date": "2026-09-30",
+    "number": "171"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026264",
+    "draw_date": "2026-10-05",
+    "number": "119"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026264",
+    "draw_date": "2026-10-05",
+    "number": "592"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026265",
+    "draw_date": "2026-10-06",
+    "number": "161"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026265",
+    "draw_date": "2026-10-06",
+    "number": "954"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026266",
+    "draw_date": "2026-10-07",
+    "number": "346"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026266",
+    "draw_date": "2026-10-07",
+    "number": "121"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026267",
+    "draw_date": "2026-10-08",
+    "number": "857"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026267",
+    "draw_date": "2026-10-08",
+    "number": "216"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026268",
+    "draw_date": "2026-10-09",
+    "number": "890"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026268",
+    "draw_date": "2026-10-09",
+    "number": "300"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026269",
+    "draw_date": "2026-10-10",
+    "number": "341"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026269",
+    "draw_date": "2026-10-10",
+    "number": "067"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026270",
+    "draw_date": "2026-10-11",
+    "number": "084"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026270",
+    "draw_date": "2026-10-11",
+    "number": "641"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026271",
+    "draw_date": "2026-10-12",
+    "number": "280"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026271",
+    "draw_date": "2026-10-12",
+    "number": "622"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026272",
+    "draw_date": "2026-10-13",
+    "number": "015"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026272",
+    "draw_date": "2026-10-13",
+    "number": "890"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026273",
+    "draw_date": "2026-10-14",
+    "number": "902"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026273",
+    "draw_date": "2026-10-14",
+    "number": "703"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026274",
+    "draw_date": "2026-10-15",
+    "number": "823"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026274",
+    "draw_date": "2026-10-15",
+    "number": "361"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026275",
+    "draw_date": "2026-10-16",
+    "number": "287"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026275",
+    "draw_date": "2026-10-16",
+    "number": "206"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026276",
+    "draw_date": "2026-10-17",
+    "number": "960"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026276",
+    "draw_date": "2026-10-17",
+    "number": "906"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026277",
+    "draw_date": "2026-10-18",
+    "number": "568"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026277",
+    "draw_date": "2026-10-18",
+    "number": "278"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026278",
+    "draw_date": "2026-10-19",
+    "number": "666"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026278",
+    "draw_date": "2026-10-19",
+    "number": "583"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026279",
+    "draw_date": "2026-10-20",
+    "number": "791"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026279",
+    "draw_date": "2026-10-20",
+    "number": "471"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026280",
+    "draw_date": "2026-10-21",
+    "number": "435"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026280",
+    "draw_date": "2026-10-21",
+    "number": "864"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026281",
+    "draw_date": "2026-10-22",
+    "number": "813"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026281",
+    "draw_date": "2026-10-22",
+    "number": "983"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026282",
+    "draw_date": "2026-10-23",
+    "number": "300"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026282",
+    "draw_date": "2026-10-23",
+    "number": "647"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026283",
+    "draw_date": "2026-10-24",
+    "number": "202"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026283",
+    "draw_date": "2026-10-24",
+    "number": "258"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026284",
+    "draw_date": "2026-10-25",
+    "number": "176"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026284",
+    "draw_date": "2026-10-25",
+    "number": "677"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026285",
+    "draw_date": "2026-10-26",
+    "number": "932"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026285",
+    "draw_date": "2026-10-26",
+    "number": "613"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026286",
+    "draw_date": "2026-10-27",
+    "number": "192"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026286",
+    "draw_date": "2026-10-27",
+    "number": "218"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026287",
+    "draw_date": "2026-10-28",
+    "number": "121"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026287",
+    "draw_date": "2026-10-28",
+    "number": "154"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026288",
+    "draw_date": "2026-10-29",
+    "number": "612"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026288",
+    "draw_date": "2026-10-29",
+    "number": "415"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026289",
+    "draw_date": "2026-10-30",
+    "number": "843"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026289",
+    "draw_date": "2026-10-30",
+    "number": "299"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026290",
+    "draw_date": "2026-10-31",
+    "number": "735"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026290",
+    "draw_date": "2026-10-31",
+    "number": "039"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026291",
+    "draw_date": "2026-11-01",
+    "number": "086"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026291",
+    "draw_date": "2026-11-01",
+    "number": "276"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026292",
+    "draw_date": "2026-11-02",
+    "number": "993"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026292",
+    "draw_date": "2026-11-02",
+    "number": "446"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026293",
+    "draw_date": "2026-11-03",
+    "number": "185"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026293",
+    "draw_date": "2026-11-03",
+    "number": "811"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026294",
+    "draw_date": "2026-11-04",
+    "number": "261"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026294",
+    "draw_date": "2026-11-04",
+    "number": "329"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026295",
+    "draw_date": "2026-11-05",
+    "number": "741"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026295",
+    "draw_date": "2026-11-05",
+    "number": "291"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026296",
+    "draw_date": "2026-11-06",
+    "number": "907"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026296",
+    "draw_date": "2026-11-06",
+    "number": "320"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026297",
+    "draw_date": "2026-11-07",
     "number": "123"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026297",
+    "draw_date": "2026-11-07",
+    "number": "777"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026298",
+    "draw_date": "2026-11-08",
+    "number": "085"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026298",
+    "draw_date": "2026-11-08",
+    "number": "597"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026299",
+    "draw_date": "2026-11-09",
+    "number": "382"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026299",
+    "draw_date": "2026-11-09",
+    "number": "170"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026300",
+    "draw_date": "2026-11-10",
+    "number": "190"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026300",
+    "draw_date": "2026-11-10",
+    "number": "398"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026301",
+    "draw_date": "2026-11-11",
+    "number": "849"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026301",
+    "draw_date": "2026-11-11",
+    "number": "544"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026302",
+    "draw_date": "2026-11-12",
+    "number": "428"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026302",
+    "draw_date": "2026-11-12",
+    "number": "982"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026303",
+    "draw_date": "2026-11-13",
+    "number": "069"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026303",
+    "draw_date": "2026-11-13",
+    "number": "286"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026304",
+    "draw_date": "2026-11-14",
+    "number": "823"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026304",
+    "draw_date": "2026-11-14",
+    "number": "290"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026305",
+    "draw_date": "2026-11-15",
+    "number": "200"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026305",
+    "draw_date": "2026-11-15",
+    "number": "260"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026306",
+    "draw_date": "2026-11-16",
+    "number": "432"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026306",
+    "draw_date": "2026-11-16",
+    "number": "032"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026307",
+    "draw_date": "2026-11-17",
+    "number": "601"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026307",
+    "draw_date": "2026-11-17",
+    "number": "067"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026308",
+    "draw_date": "2026-11-18",
+    "number": "041"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026308",
+    "draw_date": "2026-11-18",
+    "number": "362"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026309",
+    "draw_date": "2026-11-19",
+    "number": "156"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026309",
+    "draw_date": "2026-11-19",
+    "number": "033"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026310",
+    "draw_date": "2026-11-20",
+    "number": "318"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026310",
+    "draw_date": "2026-11-20",
+    "number": "162"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026311",
+    "draw_date": "2026-11-21",
+    "number": "815"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026311",
+    "draw_date": "2026-11-21",
+    "number": "840"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026312",
+    "draw_date": "2026-11-22",
+    "number": "408"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026312",
+    "draw_date": "2026-11-22",
+    "number": "771"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026313",
+    "draw_date": "2026-11-23",
+    "number": "346"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026313",
+    "draw_date": "2026-11-23",
+    "number": "036"
+  },
+  {
+    "game_type": "3d",
+    "issue": "2026314",
+    "draw_date": "2026-11-24",
+    "number": "584"
+  },
+  {
+    "game_type": "p3",
+    "issue": "2026314",
+    "draw_date": "2026-11-24",
+    "number": "843"
   }
 ]
