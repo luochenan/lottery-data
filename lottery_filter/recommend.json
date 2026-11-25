@@ -8,6 +8,48 @@
     "danma": "慎重"
   },
   "notice": "筛选时建议位置范围优先，其次是和值的选择。\n对于胆码和杀跨谨慎选择，胆码可以不加入规则筛选对自己看好的胆码可以更快找到合适号码。\n最后㊗️君天天中奖！！！",
-  "daily": {},
+  "daily": {
+    "3d": {
+      "sums": [
+        10,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        24
+      ],
+      "positions": {
+        "h": [
+          0,
+          2,
+          4,
+          5,
+          7,
+          8
+        ],
+        "t": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          7
+        ],
+        "o": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "kill_spans": [],
+      "danma": [],
+      "note": ""
+    }
+  },
   "download_url": "https://github.com/luochenan/lottery-data/releases/download/v1.7.0/lottery_filter_v1.7.0.apk"
 }
