@@ -1,6 +1,6 @@
 {
-  "version": "1.7.0",
-  "apk_url": "https://github.com/luochenan/lottery-data/releases/download/v1.7.0/lottery_filter_v1.7.0.apk",
-  "notes": "新增范围分析弹窗、保存图片到相册；修复检查更新、管理员提示",
+  "version": "1.7.6",
+  "apk_url": "https://github.com/luochenan/lottery-data/releases/download/v1.7.6/lottery_filter_v1.7.6.apk",
+  "notes": "修复清空按钮连点失效、每日建议刷新不生效",
   "mandatory": false
 }
