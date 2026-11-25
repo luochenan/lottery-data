@@ -1,6 +1,12 @@
 [
   {
     "game_type": "3d",
+    "issue": "2026315",
+    "draw_date": "2026-11-25",
+    "number": "766"
+  },
+  {
+    "game_type": "3d",
     "issue": "2026314",
     "draw_date": "2026-11-24",
     "number": "584"
